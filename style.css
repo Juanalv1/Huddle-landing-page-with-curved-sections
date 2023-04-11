@@ -334,18 +334,23 @@ footer{
 
 @media (min-width: 400px){
   .bg-top-1{
+    height: 158px;
     background-image: url(./images/bg-section-top-desktop-1.svg);
   }
   .bg-bottom-1{
+    height: 158px;
     background-image: url(./images/bg-section-bottom-desktop-1.svg);
   }
   .bg-bottom-2{
+    height: 158px;
     background-image: url(./images/bg-section-bottom-desktop-2.svg);
   }
   .bg-top-2{
+    height: 158px;
     background-image: url(./images/bg-section-top-desktop-2.svg);
   }
   .bg-footer-top{
+    height: 158px;
     background-image: url(./images/bg-footer-top-desktop.svg);
     
   }
