@@ -14,7 +14,7 @@
   --fs-htitle: clamp(2rem, 5vw + 1rem, 3.4rem);
   --fs-title: clamp(2rem , 5vw + 1rem, 2.8rem);
   --fs-p: 1.6rem;
-
+  --fs-button: 1.8rem;
   --ln-htitle: 3.8rem;
   --ln-title: 4rem;
   --ln-p: 2.2rem
